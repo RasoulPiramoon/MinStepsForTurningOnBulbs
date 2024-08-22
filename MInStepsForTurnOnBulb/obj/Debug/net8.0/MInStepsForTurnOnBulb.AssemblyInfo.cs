@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MInStepsForTurnOnBulb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e01c0e0637291130ab10126698989fc86e91d66")]
 [assembly: System.Reflection.AssemblyProductAttribute("MInStepsForTurnOnBulb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MInStepsForTurnOnBulb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MInStepsForTurnOnBulb
-build_property.ProjectDir = C:\Users\rasou\source\repos\MInStepsForTurnOnBulb\
+build_property.ProjectDir = C:\Users\rasou\source\repos\test\MinStepsForTurningOnBulbs\MInStepsForTurnOnBulb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
